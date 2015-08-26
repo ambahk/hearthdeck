@@ -36,7 +36,6 @@ public class CardDb {
 
 			final JSObject sets = TBone.parseJson(result.getResponseText());
 			for (final String setName : TBone.keys(sets)) {
-				System.out.println(setName);
 
 				if (isCollectibleSet(setName)) {
 
