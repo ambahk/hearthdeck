@@ -4,6 +4,8 @@ A web applications that lets Hearthstone players build and store decks.  The web
 
 # Installation
 
+Make sure that you are using Java 8.
+
 ```
 mvn package
 ```
