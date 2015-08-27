@@ -31,6 +31,10 @@ Save the deck.
 Go back to the *Decks* page to see the deck that was created.
 Go to *Cards* page to browse the card list.
 
+# Where to start?
+
+Like any Java projects, look for the class with *public static void main*
+
 # Database
 
 The Hearthstone card database is downloadable from http://hearthstonejson.com
