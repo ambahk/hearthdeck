@@ -6,6 +6,6 @@
         "jquery": "2.1.*",
         "sprintf": "1.0.*",
 		"swiper": "3.0.*",
-        "semantic-ui": "1.11.*"
+        "semantic-ui": "1.*"
     }
 }
