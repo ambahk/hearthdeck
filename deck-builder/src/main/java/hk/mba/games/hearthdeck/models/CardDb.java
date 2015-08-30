@@ -30,7 +30,7 @@ public class CardDb {
 	private final List<CardDto> cardListByHealth = new ArrayList<>(); // sorted, only minions
 
 	public void init() {
-		TBone.ajaxGet("/cards/AllSets.enUS.json", result -> {
+		TBone.ajaxGet("cards/AllSets.enUS.json", result -> {
 
 			final List<CardDto> cards = new ArrayList<>();
 
