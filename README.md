@@ -2,7 +2,7 @@
 
 A web applications that lets Hearthstone players build and store decks.  The web app is server-less.  The decks are stored in the local storage of the browser.
 
-Try it here: https://github.com/ambahk/hearthdeck/deck-builder/public/index.html
+Try it here: https://cdn.rawgit.com/ambahk/hearthdeck/master/deck-builder/public/index.html
 
 # Installation
 
